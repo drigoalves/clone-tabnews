@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Salve Jamal! Que de mal tem nada, você é foda menó!</h1>
+    return <h1>Salve Jamal! To aprendendo a fazer uns Deploy maluko aqui.</h1>
 }
 
 export default Home;
